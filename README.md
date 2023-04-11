@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yeti1o3
+- 👋 Hi, I’m sanskar sharma
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
