@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sanskar sharma
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in web devlopment
+- 🌱 I’m currently learning python and react
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sanskarsharma987@gmail.com
 
