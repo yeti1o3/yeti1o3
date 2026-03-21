@@ -1,37 +1,62 @@
-hey, I'm Sanskar👋
-Backend developer from Noida.
-I build the parts of a product people never see — and I take that seriously.
-
-what I work with
-Backend
-Node.js Python FastAPI PostgreSQL MongoDB Redis
-Cloud & DevOps
-AWS Docker GitHub Actions Nginx CloudWatch PM2 Linux
-Tools
-Git BullMQ Socket.IO Postman VS Code
-
-how I think about my work
-
-systems should be reliable before they're clever
+<div align="center">
+ 
+# hey, I'm Sanskar 👋
+ 
+**Backend Developer · Cloud & DevOps · Noida, India**
+ 
+*I build the parts of a product people never see — and I take that seriously.*
+ 
+<br/>
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SanskarSharma987@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/yourhandle)
+ 
+</div>
+ 
+---
+ 
+### 🛠 what I work with
+ 
+| Backend | Cloud & DevOps | Tools |
+|---|---|---|
+| Node.js · Python · FastAPI | AWS · Docker · Kubernetes | Git · VS Code · Postman |
+| PostgreSQL · MongoDB · Redis | GitHub Actions · Nginx · PM2 | BullMQ · Socket.IO |
+ 
+---
+ 
+### 🧠 how I think about my work
+ 
+```
 good infrastructure is invisible — if you notice it, something's wrong
-i care about the details that never make it into a PR description
-deployment is part of the product, not an afterthought
 
-
-what I'm working on
-
-building real-time backend systems with Node.js + Socket.IO
-going deeper on AWS — currently preparing for SAA-C03
-documenting my learning journey in short-form videos
-
-
-find me
-
-📍 Noida, India
-💼 open to backend & DevOps roles
-📬 SanskarSharma987@gmail.com 
-
-<!---
-yeti1o3/yeti1o3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+ 
+---
+ 
+### 🔭 what I'm building & learning
+ 
+- 🔁 &nbsp;Real-time backend systems with **Node.js + Socket.IO**
+- ☁️ &nbsp;Going deeper on **AWS** — preparing for **SAA-C03**
+- 📹 &nbsp;Documenting my learning journey in short-form videos
+ 
+---
+ 
+### 📊 github stats
+ 
+<div align="center">
+ 
+![Sanskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeti103&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+ 
+</div>
+ 
+---
+ 
+<div align="center">
+ 
+*I write code nobody sees, for experiences everyone feels.*
+ 
+</div>
+ 
